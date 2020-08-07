@@ -8,4 +8,8 @@ public class Service {
 	{
 		
 	}
+	public void login() {
+		
+		System.out.println("Log");
+	}
 }
