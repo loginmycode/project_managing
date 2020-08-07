@@ -15,5 +15,8 @@ public class Service {
 		System.out.println(" reg");
 		
 		System.out.println(" reg 1");
+		
+		
+		System.out.println(" reg complete");
 	}
 }
