@@ -8,4 +8,15 @@ public class Service {
 	{
 		
 	}
+	
+	public void reg() {
+		
+		
+		System.out.println(" reg");
+		
+		System.out.println(" reg 1");
+		
+		
+		System.out.println(" reg complete");
+	}
 }
