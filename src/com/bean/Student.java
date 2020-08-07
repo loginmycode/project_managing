@@ -4,7 +4,7 @@ public class Student  {
 	
 	private String name;
 	private int age;
-	
+	//Need to add email
 	public Student() {
 		super();
 		// TODO Auto-generated constructor stub
