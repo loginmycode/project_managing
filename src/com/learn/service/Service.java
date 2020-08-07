@@ -8,4 +8,10 @@ public class Service {
 	{
 		
 	}
+	
+	public void reg() {
+		
+		
+		System.out.println(" reg");
+	}
 }
