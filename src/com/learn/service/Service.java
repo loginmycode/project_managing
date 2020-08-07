@@ -11,5 +11,9 @@ public class Service {
 	public void login() {
 		
 		System.out.println("Log");
+		System.out.println("Checking");
+		System.out.println("Good one");
+		//llll
 	}
+	
 }
