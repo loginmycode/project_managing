@@ -13,5 +13,7 @@ public class Service {
 		
 		
 		System.out.println(" reg");
+		
+		System.out.println(" reg 1");
 	}
 }
